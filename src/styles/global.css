@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+
+@theme {
+    --color-lime-brand: #C8F135;
+    --color-lime-brand-hover: rgba(200, 241, 53, 0.4);
+    --color-dark-base: #111111;
+    --color-dark-mid: #1E1E1E;
+    --color-white-main: #FFFFFF;
+    --color-grey-light: #E8E8E8;
+    --color-grey-muted: #888888;
+    
+    --color-border-lime: rgba(200, 241, 53, 0.2);
+    --color-overlay-grid: rgba(200, 241, 53, 0.04);
+
+
+    --font-main: 'Space Grotesk', sans-serif;
+    --font-mono: 'Space Mono', monospace;
+}
